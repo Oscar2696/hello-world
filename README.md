@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+what is good people?
+
+Oscar here just trying to get someknowledge on how to code. 
